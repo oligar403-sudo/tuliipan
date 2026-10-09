@@ -1,10 +1,7 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripperN_L1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
-#EXTVLCOPT:network-caching=1000
-
-# ACTUALIZADO: 03/10/2026 12:17:45
-# TOTAL CANALES: 388
-# FUENTE: ELCANO + NEW ERA (UNIFICADO)
-
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600" #EXTVLCOPT:network-caching=1000
+### ACTUALIZADO: 03/10/2026 12:17:45
+### TOTAL CANALES: 388
+### FUENTE: ELCANO + NEW ERA (UNIFICADO)
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN Baloncesto 720p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN Baloncesto 720p
 acestream://4005aabe21ba9c6d748845db91e4f48d99f58639
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN Baloncesto 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN Baloncesto 1080p
@@ -19,11 +16,11 @@ acestream://853129258a5cb51f27829eddb934e58b45978344
 acestream://95125f755562c0ffcb44abd94e338bd65472afea
 #EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-name="DAZN Baloncesto 3 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN Baloncesto 3 1080p
 acestream://13d68ecb392251a81489ce75be90388498ecfb91
-#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-name="M+ Baloncesto 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",M+ Baloncesto 1080p
+#EXTINF:-1 tvg-id="M+ Baloncesto" tvg-name="M+ Baloncesto 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",M+ Baloncesto 1080p
 acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
-#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",M+ Baloncesto 2 1080p
+#EXTINF:-1 tvg-id="M+ Baloncesto 2" tvg-name="M+ Baloncesto 2 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",M+ Baloncesto 2 1080p
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",M+ Baloncesto 3 1080p
+#EXTINF:-1 tvg-id="M+ Baloncesto 3" tvg-name="M+ Baloncesto 3 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",M+ Baloncesto 3 1080p
 acestream://7b0193004089d4d29821a5cdf17f407d0d192314
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN 1 1080p
 acestream://dddff67edfa7061f643ec5ae0be110169850363d
@@ -161,59 +158,59 @@ acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
 acestream://837883625d40e1eb5566eefaf74811046491f53a
 #EXTINF:-1 tvg-id="M+ VAMOS 3" tvg-name="M+ VAMOS 3 1080p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ VAMOS 3 1080p
 acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
-#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo Primera RFEF 2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
+#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
 acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
-#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo Primera RFEF 2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
+#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
 acestream://177796041773be99b489dd3ce86144f243e7355f
-#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo Primera RFEF 2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
+#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
 acestream://854ff9c607101791346111cd2366a392c3b8c351
-#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo Primera RFEF 2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
+#EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
 acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
-#EXTINF:-1 tvg-id="La 1 TVE" tvg-name="La 1 TVE 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",La 1 TVE 720p
+#EXTINF:-1 tvg-id="La 1 TVE" tvg-name="La 1 TVE 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",La 1 TVE 720p
 acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
-#EXTINF:-1 tvg-id="La 1 TVE" tvg-name="La 1 TVE 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",La 1 TVE 1080p
+#EXTINF:-1 tvg-id="La 1 TVE" tvg-name="La 1 TVE 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",La 1 TVE 1080p
 acestream://9707e15881a29adc795ebdc12862289860edd4ef
-#EXTINF:-1 tvg-id="La 1 TVE" tvg-name="La 1 TVE 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",La 1 TVE 4K
+#EXTINF:-1 tvg-id="La 1 TVE" tvg-name="La 1 TVE 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",La 1 TVE 4K
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
-#EXTINF:-1 tvg-id="luz" tvg-name="luz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",luz
+#EXTINF:-1 tvg-id="luz" tvg-name="luz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",luz
 acestream://4adbc671d7a22ba1f8d277f3f37c91b47845a8a1
-#EXTINF:-1 tvg-id="luz" tvg-name="luz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",luz
+#EXTINF:-1 tvg-id="luz" tvg-name="luz" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",luz
 acestream://4ccb69f37f4cc27c05aef975c200715d9b3d31b4
-#EXTINF:-1 tvg-id="ALTITUDE SPORTS" tvg-name="ALTITUDE SPORTS 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",ALTITUDE SPORTS 1080p
+#EXTINF:-1 tvg-id="ALTITUDE SPORTS" tvg-name="ALTITUDE SPORTS 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",ALTITUDE SPORTS 1080p
 acestream://3f1697cd02ff08343ace6171ffc2b26bf2b3ce1b
-#EXTINF:-1 tvg-id="ALTITUDE SPORTS" tvg-name="ALTITUDE SPORTS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",ALTITUDE SPORTS
+#EXTINF:-1 tvg-id="ALTITUDE SPORTS" tvg-name="ALTITUDE SPORTS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",ALTITUDE SPORTS
 acestream://9ee035de0840c8fbfef82c9d51e8dad4a6251677
-#EXTINF:-1 tvg-id="Bein Sports 3 TR" tvg-name="Bein Sports 3 TR 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/beIN%20SPORTS%201.png" group-title="SOLO ELCANO",Bein Sports 3 TR 720p
+#EXTINF:-1 tvg-id="Bein Sports 3 TR" tvg-name="Bein Sports 3 TR 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" group-title="SOLO ELCANO",Bein Sports 3 TR 720p
 acestream://229419659a062e80a088bb049137dafa9c9952fe
-#EXTINF:-1 tvg-id="Bein Sports TR" tvg-name="Bein Sports TR 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/beIN%20SPORTS%201.png" group-title="SOLO ELCANO",Bein Sports TR 720p
+#EXTINF:-1 tvg-id="Bein Sports TR" tvg-name="Bein Sports TR 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" group-title="SOLO ELCANO",Bein Sports TR 720p
 acestream://1e3451ef86d34c96aabece2ac7bcae70ba9ed767
 #EXTINF:-1 tvg-id="Esport3" tvg-name="Esport3 1080p" tvg-logo="https://img.3cat.cat/multimedia/jpg/1/5/1697802708951.jpg" group-title="SOLO ELCANO",Esport3 1080p
 acestream://21bc11d195f5753c396e390c215952d21541d04d
 #EXTINF:-1 tvg-id="Gol TV" tvg-name="Gol TV 1080p" tvg-logo="https://statics.goltelevision.com/shared/assets/logos/og-image2.jpg" group-title="SOLO ELCANO",Gol TV 1080p
 acestream://42d3724b275c8029cef0b4d9ce4c59add5cd3ec1
-#EXTINF:-1 tvg-id="RALLY TV" tvg-name="RALLY TV 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",RALLY TV 1080p
+#EXTINF:-1 tvg-id="RALLY TV" tvg-name="RALLY TV 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",RALLY TV 1080p
 acestream://64eb19dccf5e60f121a4c1f7c69489af6b1c9ca9
-#EXTINF:-1 tvg-id="RALLY TV" tvg-name="RALLY TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",RALLY TV
+#EXTINF:-1 tvg-id="RALLY TV" tvg-name="RALLY TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",RALLY TV
 acestream://12404b00d2787995d639ccf71a80da5d39d153f9
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",Real Madrid TV 1080p
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",Real Madrid TV 1080p
 acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
-#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",Real Madrid TV 1080p
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-name="Real Madrid TV 1080p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",Real Madrid TV 1080p
 acestream://44ea3d00ee2abfd5d89792a32851d7af61f16f0a
-#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="SPORT TV1 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV1 1080p
+#EXTINF:-1 tvg-id="SPORT TV1" tvg-name="SPORT TV1 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV1 1080p
 acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
-#EXTINF:-1 tvg-id="SPORT TV2" tvg-name="SPORT TV2 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV2 1080p
+#EXTINF:-1 tvg-id="SPORT TV2" tvg-name="SPORT TV2 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV2 1080p
 acestream://bad281a31a626c5ca18754e7b55725eea9fa7eca
-#EXTINF:-1 tvg-id="SPORT TV3" tvg-name="SPORT TV3 720p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV3 720p
+#EXTINF:-1 tvg-id="SPORT TV3" tvg-name="SPORT TV3 720p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV3 720p
 acestream://ec2cbc782281624753f20fb0f9a6797651ddfc6c
-#EXTINF:-1 tvg-id="SPORT TV3" tvg-name="SPORT TV3 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV3 1080p
+#EXTINF:-1 tvg-id="SPORT TV3" tvg-name="SPORT TV3 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV3 1080p
 acestream://13d84366dcb9607c15cd9a78b5a3921046ac65b6
-#EXTINF:-1 tvg-id="SPORT TV4" tvg-name="SPORT TV4 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV4 1080p
+#EXTINF:-1 tvg-id="SPORT TV4" tvg-name="SPORT TV4 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV4 1080p
 acestream://8d43ca967d4a170f7f2d3e006742cca8aa364f07
-#EXTINF:-1 tvg-id="SPORT TV5" tvg-name="SPORT TV5 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV5 1080p
+#EXTINF:-1 tvg-id="SPORT TV5" tvg-name="SPORT TV5 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV5 1080p
 acestream://54819e202ffd44b098f401df0b399f2079152edb
-#EXTINF:-1 tvg-id="Sport TV7" tvg-name="Sport TV7 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",Sport TV7 1080p
+#EXTINF:-1 tvg-id="Sport TV7" tvg-name="Sport TV7 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",Sport TV7 1080p
 acestream://e6b9ccd80ee0027e887d0a27b07e8f032de25b27
-#EXTINF:-1 tvg-id="Sport TV" tvg-name="Sport TV+ 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport tv1-logo brandlogos.net k6b5q-512x512.png" group-title="SOLO ELCANO",Sport TV+ 1080p
+#EXTINF:-1 tvg-id="Sport TV" tvg-name="Sport TV+ 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",Sport TV+ 1080p
 acestream://620df183a3d9647079aeee52dcb6dfd8c44eb447
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte 720p" tvg-logo="https://img2.rtve.es/n/15966755" group-title="SOLO ELCANO",Teledeporte 720p
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
@@ -227,13 +224,13 @@ acestream://ac33342ccf7d40d46174229085461d95000b9137
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
 #EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="Dazn MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
 acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="Dazn MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
 acestream://b18dda520e112e48a33d6d0ae558681b9ecfbb4d
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="Dazn MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="Dazn MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
-#EXTINF:-1 tvg-id="NBA ESPN" tvg-name="NBA ESPN 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/ESPN.png" group-title="SOLO ELCANO",NBA ESPN 720p
+#EXTINF:-1 tvg-id="NBA ESPN" tvg-name="NBA ESPN 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="SOLO ELCANO",NBA ESPN 720p
 acestream://bf3773e7f5e53c11347c70c18bd085322efbc90f
 #EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis 1080p" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="SOLO ELCANO",Sky Sport Tennis 1080p
 acestream://f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
@@ -241,13 +238,13 @@ acestream://f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel 1080p" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="SOLO ELCANO",Tennis Channel 1080p
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-id="Paramount UFC" tvg-name="Paramount+ UFC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",Paramount+ UFC
+#EXTINF:-1 tvg-id="Paramount UFC" tvg-name="Paramount+ UFC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",Paramount+ UFC
 acestream://a895ab5bcc8beba2d2aa6d5aa332927f005baa65
-#EXTINF:-1 tvg-id="UFC FIGHT PASS" tvg-name="UFC FIGHT PASS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",UFC FIGHT PASS
+#EXTINF:-1 tvg-id="UFC FIGHT PASS" tvg-name="UFC FIGHT PASS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",UFC FIGHT PASS
 acestream://138f0b038420a425d376cb5c85d3d61570466b20
-#EXTINF:-1 tvg-id="OFF siempre" tvg-name="OFF siempre" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons dobleM/master/icon/default.png" group-title="SOLO ELCANO",OFF siempre
+#EXTINF:-1 tvg-id="OFF siempre" tvg-name="OFF siempre" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",OFF siempre
 acestream://bcb9b676516abdcc741e05360e2e27b487a2f1b3
-#EXTINF:-1 tvg-id="Canal 1" tvg-name="Canal 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo Primera RFEF 2021.png" group-title="SOLO NEW ERA",Canal 1
+#EXTINF:-1 tvg-id="Canal 1" tvg-name="Canal 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="SOLO NEW ERA",Canal 1
 acestream://c1ee6e1e0ef5928d8261f855c417de21794f437d
-#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo Primera RFEF 2021.png" group-title="SOLO NEW ERA",Canal 2
+#EXTINF:-1 tvg-id="Canal 2" tvg-name="Canal 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="SOLO NEW ERA",Canal 2
 acestream://8677d339ecddd75165c0015025f598b6215974cf
