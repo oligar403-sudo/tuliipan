@@ -1,7 +1,4 @@
 #EXTM3U tvg-shift="0" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml" refresh="3600" #EXTVLCOPT:network-caching=1000
-### ACTUALIZADO: 03/10/2026 12:17:45
-### TOTAL CANALES: 388
-### FUENTE: ELCANO + NEW ERA (UNIFICADO)
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN Baloncesto 720p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN Baloncesto 720p
 acestream://4005aabe21ba9c6d748845db91e4f48d99f58639
 #EXTINF:-1 tvg-id="DAZN Baloncesto" tvg-name="DAZN Baloncesto 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN Baloncesto 1080p
