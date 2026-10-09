@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg ripper NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG dobleM/master/guiatv.xml" refresh="3600"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripperN_L1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
 # ACTUALIZADO: 03/10/2026 12:17:45
