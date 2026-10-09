@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600" #EXTVLCOPT:network-caching=1000
+#EXTM3U tvg-shift="0" url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml" refresh="3600" #EXTVLCOPT:network-caching=1000
 ### ACTUALIZADO: 03/10/2026 12:17:45
 ### TOTAL CANALES: 388
 ### FUENTE: ELCANO + NEW ERA (UNIFICADO)
@@ -70,7 +70,7 @@ acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 acestream://465075c02b7284f564911bd63d1c6f0a8d464be7
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="DAZN LaLiga" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN LaLiga
 acestream://9c75f1d190c518cfe0f236415b8dccc1f676ef3b
-#EXTINF:-1 tvg-id="Disney  LaLiga 1" tvg-name="Disney + LaLiga 1" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="SOLO ELCANO",Disney + LaLiga 1
+#EXTINF:-1 tvg-id="Disney + LaLiga 1" tvg-name="Disney + LaLiga 1" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="SOLO ELCANO",Disney + LaLiga 1
 acestream://c60cc0f908ea9f135f9fde01da05768805b66923
 #EXTINF:-1 tvg-id="M+ LaLiga" tvg-name="M+ LaLiga 1080p" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="SOLO ELCANO",M+ LaLiga 1080p
 acestream://d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
@@ -150,13 +150,13 @@ acestream://882074140fca664e119a43294afa2fb4a64917ef
 acestream://7a053fc56fc93f42ec656382408e647055110e3e
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-name="M+ Vamos 1080p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ Vamos 1080p
 acestream://26159ba451167e962f4f9236ab4c7626f7eb4e49
-#EXTINF:-1 tvg-id="M+ VAMOS 2" tvg-name="M+ VAMOS 2 720p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ VAMOS 2 720p
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="M+ Vamos 2 720p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ Vamos 2 720p
 acestream://c8c172886e466fbe443433f8e95d201e34edd879
-#EXTINF:-1 tvg-id="M+ VAMOS 2" tvg-name="M+ VAMOS 2 1080p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ VAMOS 2 1080p
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="M+ Vamos 2 1080p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ Vamos 2 1080p
 acestream://0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
-#EXTINF:-1 tvg-id="M+ VAMOS 3" tvg-name="M+ VAMOS 3 720p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ VAMOS 3 720p
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-name="M+ Vamos 3 720p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ Vamos 3 720p
 acestream://837883625d40e1eb5566eefaf74811046491f53a
-#EXTINF:-1 tvg-id="M+ VAMOS 3" tvg-name="M+ VAMOS 3 1080p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ VAMOS 3 1080p
+#EXTINF:-1 tvg-id="M+ Vamos 3" tvg-name="M+ Vamos 3 1080p" tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" group-title="SOLO ELCANO",M+ Vamos 3 1080p
 acestream://b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 tvg-id="RFEF TV" tvg-name="RFEF TV 1080p" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png" group-title="SOLO ELCANO",RFEF TV 1080p
 acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
@@ -208,9 +208,9 @@ acestream://13d84366dcb9607c15cd9a78b5a3921046ac65b6
 acestream://8d43ca967d4a170f7f2d3e006742cca8aa364f07
 #EXTINF:-1 tvg-id="SPORT TV5" tvg-name="SPORT TV5 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV5 1080p
 acestream://54819e202ffd44b098f401df0b399f2079152edb
-#EXTINF:-1 tvg-id="Sport TV7" tvg-name="Sport TV7 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",Sport TV7 1080p
+#EXTINF:-1 tvg-id="SPORT TV7" tvg-name="SPORT TV7 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV7 1080p
 acestream://e6b9ccd80ee0027e887d0a27b07e8f032de25b27
-#EXTINF:-1 tvg-id="Sport TV" tvg-name="Sport TV+ 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",Sport TV+ 1080p
+#EXTINF:-1 tvg-id="SPORT TV+" tvg-name="SPORT TV+ 1080p" tvg-logo="https://brandlogos.net/wp-content/uploads/2023/12/sport_tv1-logo_brandlogos.net_k6b5q-512x512.png" group-title="SOLO ELCANO",SPORT TV+ 1080p
 acestream://620df183a3d9647079aeee52dcb6dfd8c44eb447
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte 720p" tvg-logo="https://img2.rtve.es/n/15966755" group-title="SOLO ELCANO",Teledeporte 720p
 acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
@@ -218,17 +218,17 @@ acestream://b0d1489c9f3239349665ad5ab423363f2b02e5ae
 acestream://77cf022557c56cdf8d8115f50e61f846ad72ee05
 #EXTINF:-1 tvg-id="Teledeporte" tvg-name="Teledeporte 1080p" tvg-logo="https://img2.rtve.es/n/15966755" group-title="SOLO ELCANO",Teledeporte 1080p
 acestream://3b50a1dca0977e3761d016edd79314ab797f74f6
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="Dazn MotoGP 720p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 720p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 720p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN MotoGP 720p
 acestream://ac33342ccf7d40d46174229085461d95000b9137
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="Dazn MotoGP 720p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 720p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 720p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN MotoGP 720p
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="Dazn MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN MotoGP 1080p
 acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN MotoGP 1080p
 acestream://b18dda520e112e48a33d6d0ae558681b9ecfbb4d
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN MotoGP 1080p
 acestream://342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",Dazn MotoGP 1080p
+#EXTINF:-1 tvg-id="DAZN MotoGP" tvg-name="DAZN MotoGP 1080p" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="SOLO ELCANO",DAZN MotoGP 1080p
 acestream://c53bdb3be55d12c5188d25085f1bb16911c15cea
 #EXTINF:-1 tvg-id="NBA ESPN" tvg-name="NBA ESPN 720p" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" group-title="SOLO ELCANO",NBA ESPN 720p
 acestream://bf3773e7f5e53c11347c70c18bd085322efbc90f
@@ -238,7 +238,7 @@ acestream://f31d1f85570b58be8d5ab6f4f2d0f3f9c815c35f
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
 #EXTINF:-1 tvg-id="Tennis Channel" tvg-name="Tennis Channel 1080p" tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="SOLO ELCANO",Tennis Channel 1080p
 acestream://43c549e5781f5a923b76f8f29cde122b5be164eb
-#EXTINF:-1 tvg-id="Paramount UFC" tvg-name="Paramount+ UFC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",Paramount+ UFC
+#EXTINF:-1 tvg-id="Paramount+ UFC" tvg-name="Paramount+ UFC" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",Paramount+ UFC
 acestream://a895ab5bcc8beba2d2aa6d5aa332927f005baa65
 #EXTINF:-1 tvg-id="UFC FIGHT PASS" tvg-name="UFC FIGHT PASS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/default.png" group-title="SOLO ELCANO",UFC FIGHT PASS
 acestream://138f0b038420a425d376cb5c85d3d61570466b20
