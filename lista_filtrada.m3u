@@ -22,6 +22,7 @@
 #EXTGRP: group-title="TDT" group-logo="https://i.ibb.co/j9xn42jB/logo-tdt.png"
 #EXTGRP: group-title="TENNIS" group-logo="https://i.ibb.co/ynMKPMw2/logo-tennis.png"
 #EXTGRP: group-title="UFC" group-logo="https://pngimg.com/uploads/ufc/ufc_PNG64.png"
+#EXTGRP: group-title="MOTOGP" group-logo="https://i.ibb.co/zVNFsy0F/logo-otros.png"
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 1 (1RFEF)" group-title="1RFEF", Canal 1 (1RFEF) (SOLO EVENTOS) 437d --> NEW ERA V
 http://127.0.0.1:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
@@ -565,15 +566,17 @@ http://127.0.0.1:6878/ace/getstream?id=1b6ff4ead1ce4ae797dcb889dbd1fd5f5536128a
 http://127.0.0.1:6878/ace/getstream?id=72abfc79fb0732a2bd98af649e9822d00343fecf
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FIFA 4 52b7 --> NEW ERA III
 http://127.0.0.1:6878/ace/getstream?id=469564b10f5f5aba378c3e71bfd91bcd05f052b7
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP 502d --> NEW ERA
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN MotoGP" group-title="MOTOGP", DAZN MOTOGP 502d --> NEW ERA
+http://127.0.0.1:6878/ace/getstream?id=2a05a020dfe97aaa0665bb7551022868b2a88b36
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN MotoGP" group-title="MOTOGP", DAZN MOTOGP 502d --> NEW ERA
 http://127.0.0.1:6878/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP FHD 5d56 --> NEW ERA VI
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN MotoGP" group-title="MOTOGP", DAZN MOTOGP FHD 5d56 --> NEW ERA VI
 http://127.0.0.1:6878/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d56
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * 558c --> ELCANO
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN MotoGP" group-title="MOTOGP", Dazn MotoGP FHDp * 558c --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp ** 2028 --> ELCANO
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN MotoGP" group-title="MOTOGP", Dazn MotoGP FHDp ** 2028 --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp ** 5cea --> ELCANO
+#EXTINF:-1 tvg-logo="" tvg-id="DAZN MotoGP" group-title="MOTOGP", Dazn MotoGP FHDp ** 5cea --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 FHDp * d04d --> ELCANO
 http://127.0.0.1:6878/ace/getstream?id=21bc11d195f5753c396e390c215952d21541d04d
